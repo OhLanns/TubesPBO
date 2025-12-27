@@ -268,7 +268,7 @@ public class RiwayatPesananCRUDPanel extends JPanel {
         }
     }
     
-    // 🔥 Method untuk integrasi
+    // method untuk integrasi
     public void refreshTable() {
         loadData();
     }
